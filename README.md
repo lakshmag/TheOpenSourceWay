@@ -5,4 +5,4 @@ Welcome to the TheOpenSourceWay wiki!
 
 You are a Contributor
 
-Choosing an Open Source license for your project. Must read - Choose a License
+Choosing an Open Source license for your project. Must read - [Choose a License](http://choosealicense.com)
