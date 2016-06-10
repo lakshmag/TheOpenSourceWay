@@ -1,4 +1,4 @@
-### TheOpenSourceWay
+### The Open Source Way
 (Making the right Open Source Choice)
 
 ### Key Areas
