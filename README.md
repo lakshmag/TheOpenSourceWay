@@ -10,10 +10,10 @@
 5. Big Data (Hadoop, Spark)
 6. Machine Learning (Tensorflow)
 
-| 1  |  2 |  3 | 4  |   5|
+| No. |  Company |  Event | Date |  Key Highlights|
 |---|---|---|---|---|
-|  Infosys |   |   |   |   |
-|   |   |   |   |   |
+|1|  Apple |  WWDC |   |   |
+| 2  |  Google |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
