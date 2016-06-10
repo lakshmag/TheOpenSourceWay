@@ -13,12 +13,7 @@
 | No. |  Company |  Event | Date |  Key Highlights|
 |---|---|---|---|---|
 |1|  Apple |  WWDC |   |   |
-| 2  |  Google |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| 2  |  Google | I/O  | May  | Google Assistant, Google Home, Duo (Video Call App), Allo (Messenger App) |
+|  3 | Microsoft  | Build  |   |   |
+|   4 | Facebook  |  F8 |   |   |
+|  5 |  Amazon |   |   |   |
