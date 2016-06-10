@@ -1,5 +1,5 @@
 ### TheOpenSourceWay
-(Information related to Open source usage and contributions)
+(Making the right Open Source Choice)
 
 ### Key Areas
 1. IaaS, PaaS & Containers (OpenStack, OpenShift, Docker/Kubernetes)
