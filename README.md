@@ -10,9 +10,9 @@
 5. Big Data (Hadoop, Spark)
 6. Machine Learning (Tensorflow)
 
-|   |   |   |   |   |
+| 1  |  2 |  3 | 4  |   5|
 |---|---|---|---|---|
-|   |   |   |   |   |
+|  Infosys |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
