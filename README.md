@@ -9,11 +9,3 @@
 4. DevOps (Jenkins, Ansible)
 5. Big Data (Hadoop, Spark)
 6. Machine Learning (Tensorflow)
-
-| No. |  Company |  Event | Date |  Key Highlights|
-|---|---|---|---|---|
-|1|  Apple |  WWDC |   |   |
-| 2  |  Google | I/O  | May  | Google Assistant, Google Home, <BR> Duo (Video Call App), Allo (Messenger App) |
-|  3 | Microsoft  | Build  |   |   |
-|   4 | Facebook  |  F8 |   |   |
-|  5 |  Amazon |   |   |   |
